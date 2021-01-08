@@ -103,3 +103,19 @@ Any of the following are valid reasons to reject a PR:
 - Too much to review / large code diff (i.e. should be broken up into smaller PRs)
 - Code in the PR does not match up with commit message (i.e. if it contains work other than that which the task requires)
 - Commit message is vague (i.e. 'please work' is not a good commit message)
+
+## DAY 1
+
+Review the technical requirements, and focus on making commits on day 1 that only serve to check boxes on the requirements. Your initial git should include:
+
+- base source files - index.html, scripts folder, css folder, images folder
+- choose a css library and get it installed (bulma/foundation/bootstrap)
+- when you have found your APIs, add a couple of fetch requests to your main script that just perform the requests and store the response in a variable
+- bring in a supporting javascript library and install it into your html
+- slap HELLO WORLD into your index.html
+- add a README.md that gives an outline of your project
+
+At this point, commit, and then focus on the rest of day 1 and 2 on deploying it. As soon as you can see your "HELLO WORLD" page deployed, turn right back around and actually build the thing.
+
+I can count on one hand the number of students who heed the "check the boxes, deploy early" advice, but i still stand by it. Knowing you've ticked the boxes and can focus on building something unique is a huge relief and frees you up for stretch goals without worrying about how you're going to deploy.
+
