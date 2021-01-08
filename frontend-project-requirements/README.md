@@ -104,7 +104,7 @@ Any of the following are valid reasons to reject a PR:
 - Code in the PR does not match up with commit message (i.e. if it contains work other than that which the task requires)
 - Commit message is vague (i.e. 'please work' is not a good commit message)
 
-## DAY 1
+## DAY 1: February 2, 2021
 
 Review the technical requirements, and focus on making commits on day 1 that only serve to check boxes on the requirements. Your initial git should include:
 
